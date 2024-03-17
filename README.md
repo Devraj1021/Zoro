@@ -25,9 +25,6 @@ User-Friendly Interface: Accessible through an Android application with intuitiv
 ![WhatsApp Image 2024-03-17 at 12 17 35_2da32eb1](https://github.com/AnuragPandey01/Zoro/assets/96692810/0f9ecc4a-c3f6-4bba-bfe1-d8fc0dda0a6a)
 
 
-![Uploading WhatsApp Image 2024-03-17 at 12.17.33_d51bf476.jpg…]()
-
-
 
 
 
